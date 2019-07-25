@@ -11,11 +11,13 @@
     - 【清除浮动】CSS清除浮动的方法
     - 【CSS】CSS选择器与优先级
     - 【CSS】CSS中的百分数都是相对于谁？
+    - 【CSS】内联块元素与<IMG>标签
     - 【新特性】HTML5与CSS3新特性
     - 【Flex】Flex布局总结
     
   - #### JavaScript基础与拓展部分
     - 【JS基础大全】阮一峰JavaScript基础总结（全）
+    - 【JS基础】一些容易混淆的小概念
     - 【DOM相关】JavaScript获取元素的位置与尺寸
     - 【This】JavaScript This 关键字的理解？以及call、apply、bind
     - 【闭包】什么是闭包及其应用场景
@@ -23,13 +25,14 @@
     - 【事件流】什么是事件流，事件代理委托原理
     - 【事件循环】JS运行机制以及Event Loop
     - 【执行机制】JS执行机制与异步队列
+    - 【异步设计】探寻JavaScript的异步设计（理解向）
     - 【ES6】说出你知道的ES6新特性
     - 【ES6】Promise解决了什么问题及使用
     - 【防抖与节流】JS中的函数防抖与节流
     - 【深浅拷贝】JavaScript 对象的浅拷贝和深拷贝区别？
     - 【数组去重】写一个数组去重的方法
     - 【数组去重】多维数组去重（高阶）
-
+    
   - #### 前端工程化部分
     - 【Git】Git流程梳理与理解
     - 【Git】熟悉使用Git Rebase
@@ -61,5 +64,18 @@
     - 【前端安全】前端攻击 XSS，CSRF ？避免方法？
     - 【浏览器渲染】重排和重绘
     - 【身份验证】JWT(Json Web token)
+    - 【WEBSOCKET】WebSocket 使用指南
     - 【时间复杂度】什么是时间复杂度？
     - 【栈，队列，链表】用JavaScript实现
+    - 【排序算法】优雅的 JAVASCRIPT 排序算法（ES6）
+  - #### 前端常见手写题
+    - 【数组】原生JS实现call，apply，bind方法
+    - 【数组】Array.prototype.reduce相关
+    - 【柯里化】原生JS柯里化实现
+    - 【数字千分位】1234567890 --> 1,234,567,890
+    - 【交换两个整数】LET A = 3,B = 4 变成 A = 4, B = 3
+
+    
+    
+    
+    
